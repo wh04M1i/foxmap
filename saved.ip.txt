@@ -1,0 +1,8 @@
+IP: 139.5.229.232
+ User-Agent: WhatsApp/2.23.8.76 AIP: 103.52.254.136
+ User-Agent: WhatsApp/2.23.10.77 AIP: 127.0.0.1
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36IP: 103.52.254.136
+ User-Agent: WhatsApp/2.23.10.77 AIP: 103.219.47.46
+ User-Agent: WhatsApp/2.23.10.77 AIP: 103.219.47.27
+ User-Agent: WhatsApp/2.23.12.78 AIP: 103.219.45.36
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
