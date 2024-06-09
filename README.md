@@ -1,6 +1,6 @@
 # FOXMAP 🐶
 FOXMAP is a simple and light tool for information gathering and capture exact GPS coordinates
-![image](https://user-images.githubusercontent.com/42796435/229538253-e0a9c811-60e4-4294-bd3b-8eb7621b51f5.png)
+![image](https://cdn.discordapp.com/attachments/1065453767308365914/1249225889288421386/IMG-20240609-WA0002.jpg?ex=666687c5&is=66653645&hm=58255aa8f34823b56328b65e870a2ff72fa46afaa23ea5cc065f6876cb238f7b&)
 
 # What is FOXMAP?
 <p>FOXMAP is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
